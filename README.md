@@ -6,6 +6,17 @@ git push cmd from another collaborator account if needed
 git push https://<username>:<Token>@github.com/solutionizeitx/React_Native_Workouts.git
 
 
+# Taking Build
+
+## Android
+
+`Deployment Commnds here`
+
+## IOS
+
+`Deployment Commnds here`
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
